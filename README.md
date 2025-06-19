@@ -1,49 +1,36 @@
-# 📱 iPhone 15 – Interactive UI (HTML + CSS)
+# 📱 iPhone 15 – Interactive UI
 
-A visually immersive **iPhone 15-style interface** crafted using just **HTML and CSS** — no JavaScript, no images. This project replicates the aesthetics of a modern smartphone and transforms it into a **portfolio-ready landing experience**.
+A fully responsive, animated iPhone 15 interface built using only **HTML + CSS** — no JavaScript, no images. This project mimics the iPhone aesthetic and transforms it into a unique **interactive portfolio** experience.
 
-🔗 **Live Preview:** [View on GitHub Pages](https://akash7i.github.io/-iPhone-15-Interactive-UI/)
-
----
-
-## ✨ Features
-
-- 🎨 Animated theme switcher with glowing transitions  
-- 🕳️ Dynamic notch area with music-style UI  
-- 🔘 Realistic side buttons layout  
-- ⚡ Pure CSS animations with no external JS  
-- 💼 Perfect as a creative **portfolio hero page**  
+🎯 **Live Preview**:  
+👉 [Click to View the iPhone 15 UI](https://akash7i.github.io/-iPhone-15-Interactive-UI/)
 
 ---
 
-## 🎯 Purpose
+## ✨ What’s Inside?
 
-This project is designed not just as a UI clone but as a **personal branding tool** — ideal for developers looking to present their work in a sleek, interactive format inspired by next-gen mobile design.
-
-> 💡 Ideal for: Frontend developers, UI/UX portfolios, CSS learners
-
----
-
-## 🛠 Tech Stack
-
-- ✅ HTML5  
-- ✅ CSS3 (flex, blend-mode, animations)  
-- ✅ Google Fonts (`Inter`)  
+- 🔁 Smooth theme switching animation  
+- 🎵 Notch area with media-style interface  
+- 🔘 Side buttons built with pure CSS  
+- 📱 Perfect for creative portfolios or hero sections  
+- 🖌️ Zero JavaScript — 100% clean frontend design
 
 ---
 
-## 📸 Preview
+## 📦 Technologies
 
-![iPhone 15 UI Demo](screenshot.png)  
-*(Add your own screenshot to the repo to display here)*
+- HTML5  
+- CSS3  
+- Google Fonts (Inter)
 
 ---
 
-## 🚀 Quick Start
+## 🧑‍💻 Created By
 
-To run locally:
+**Akash Kumar**  
+🔗 [GitHub](https://github.com/Akash7i) | [LinkedIn](https://www.linkedin.com/in/akash7i)
 
-```bash
-git clone https://github.com/Akash7i/-iPhone-15-Interactive-UI
-cd -iPhone-15-Interactive-UI
-open index.html
+---
+
+> ⚡ *Pure HTML & CSS can do wonders. This proves it.*
+
