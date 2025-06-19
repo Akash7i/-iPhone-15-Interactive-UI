@@ -2,8 +2,9 @@
 
 A fully responsive, animated iPhone 15 interface built using only **HTML + CSS** — no JavaScript, no images. This project mimics the iPhone aesthetic and transforms it into a unique **interactive portfolio** experience.
 
-🎯 **Live Preview**:  
+🎯 Live Preview:  
 👉 [Click to View the iPhone 15 UI](https://akash7i.github.io/-iPhone-15-Interactive-UI/)
+
 
 ---
 
